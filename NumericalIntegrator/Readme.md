@@ -2,7 +2,7 @@
 This code is used to numerically integrate a function using Simpson's method.
 
 # Code Format
-function I = Simpson(x,y)
+I = Simpson(x,y)
 
 ## Inputs
 x is the generated evenly spaced evaluation points  
